@@ -1,0 +1,7 @@
+com\tuyweb\web_adso\resources\JakartaEE10Resource.class
+com\tuyweb\web_adso\LoginServlet.class
+com\tuyweb\web_adso\DeleteUserServlet.class
+com\tuyweb\web_adso\EditUserServlet.class
+com\tuyweb\web_adso\JakartaRestConfiguration.class
+com\tuyweb\web_adso\UpdateUserServlet.class
+com\tuyweb\web_adso\RegisterUserServlet.class
